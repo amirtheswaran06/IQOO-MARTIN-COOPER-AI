@@ -1,25 +1,29 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+🦅 Martin Cooper AI
 
-# Run and deploy your AI Studio app
+Tell us what your phone should do next.
 
-This contains everything you need to run your app locally.
+Martin Cooper AI is an AI-powered innovation platform for iQOO users.
 
-View your app in AI Studio: https://ai.studio/apps/b6004de1-f31e-4205-a179-d73efbd53b82
+Users can describe any app or feature they wish existed. AI analyzes the idea and creates a temporary prototype that users can try and review.
 
-## Run Locally
+The feedback and validated ideas are then sent to the **iQOO Developer Workspace**, where developers can review them and potentially turn successful ideas into permanent features.
 
-**Prerequisites:**  Node.js
+🔄 How It Works
 
+Idea → AI Analysis → Prototype → Test → Feedback → iQOO Developers
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# IQOO-MARTIN-COOPER-AI
-Martin Cooper’s AI vision is a personalized intelligence layer inside the smartphone that understands the user, learns from their behavior, anticipates their needs, and automatically provides the right information, application, or assistance at the right moment.
->>>>>>> be2e1429d6339a17b4e30fa15a4176e29a178cb0
+🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Node.js
+- MongoDB
+- AI
+
+💡 Vision
+
+>Every great feature starts as an idea.
+
+Imagine it. Describe it. Try it. Build what's next.
