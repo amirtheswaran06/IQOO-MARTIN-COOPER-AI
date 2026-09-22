@@ -1,0 +1,6 @@
+{
+  "name": "MARTIN COOPER AI",
+  "description": "AI-powered innovation platform turning smartphone user problems into testable product concepts for iQOO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
